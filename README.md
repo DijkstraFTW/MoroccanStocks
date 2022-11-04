@@ -1,6 +1,6 @@
 # MoroccanStocks
 
-A basic analysis of the stocks values of the Casablanca Stock Exchange.
+A basic analysis of the stocks prices of the Casablanca Stock Exchange.
 
 <br />
 
