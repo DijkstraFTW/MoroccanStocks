@@ -9,7 +9,7 @@ A simple analysis of the stocks prices of the Casablanca Stock Exchange.
 - Preliminay Analysis
 - Best Performing Stocks
 - Stock Price Prediction
-- Portfolio Optimization with DL (soon)
+- Portfolio Optimization with DL
 
 <br />
 <br />
